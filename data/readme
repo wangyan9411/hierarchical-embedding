@@ -1,0 +1,3 @@
+gen: user_feature matrix
+user_user adjacency matrix
+batch labels: (user indexes, item indexes)
